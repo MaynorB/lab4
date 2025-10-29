@@ -59,6 +59,7 @@
     </folder>
     <folder Name="Source Files">
       <configuration Name="Common" filter="c;cpp;cxx;cc;h;s;asm;inc" />
+      <file file_name="lab4.h" />
       <file file_name="main.c" />
     </folder>
     <folder Name="System Files">
