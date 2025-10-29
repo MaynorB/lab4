@@ -7,7 +7,7 @@ This code uses timer 2 to control music being played with a speaker, where notes
 #include <stdint.h>
 #include "lab4.h"
 
-#define pin      3 //PB3
+#define pin      5 //PB5
 
 const int notes[][2] = {
 {659,	125},{623,	125},{659,	125},{623,	125},{659,	125},{494,	125},{587,	125},{523,	125},
