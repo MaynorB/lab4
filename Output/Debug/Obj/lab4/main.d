@@ -1,8 +1,8 @@
 Output/Debug/Obj/lab4/main.o: \
-  /Users/mynority/Documents/Github/MicroPs/lab4/main.c \
-  /Applications/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/stdint.h \
-  /Applications/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/__SEGGER_RTL.h \
-  /Applications/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/__SEGGER_RTL_ConfDefaults.h \
-  /Applications/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/__SEGGER_RTL_Conf.h \
-  /Applications/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/__SEGGER_RTL_Arm_Conf.h \
-  /Users/mynority/Documents/Github/MicroPs/lab4/lab4.h
+  C:\Users\Mayno\Documents\SEGGER\ Embedded\ Studio\ Projects\Executable_1\lab4\main.c \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ 8.18\include\stdint.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ 8.18\include\__SEGGER_RTL.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ 8.18\include\__SEGGER_RTL_ConfDefaults.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ 8.18\include\__SEGGER_RTL_Conf.h \
+  C:\Program\ Files\SEGGER\SEGGER\ Embedded\ Studio\ 8.18\include\__SEGGER_RTL_Arm_Conf.h \
+  C:\Users\Mayno\Documents\SEGGER\ Embedded\ Studio\ Projects\Executable_1\lab4\lab4.h

@@ -38,10 +38,7 @@ typedef struct {
 
 
 
-/**
-  * @brief Reset and Clock Control
-  */
-
+//Reset and Clock Control
 typedef struct
 {
   __IO uint32_t CR;          /*!< RCC clock control register,                                              Address offset: 0x00 */
@@ -83,7 +80,7 @@ typedef struct
   __IO uint32_t BDCR;        /*!< RCC backup domain control register,                                      Address offset: 0x90 */
   __IO uint32_t CSR;         /*!< RCC clock control & status register,                                     Address offset: 0x94 */
   __IO uint32_t CRRCR;       /*!< RCC clock recovery RC register,                                          Address offset: 0x98 */
-} RCC_TypeDef;
+} RCC;
 
 // Base addresses
 #define GPIOB_BASE  (0x48000400UL)
@@ -93,7 +90,7 @@ typedef struct
 
 //Fixes pointers
 #define GPIOB ((GPIO *) GPIOB_BASE)
-#define RCC ((RCC_TypeDef *) RCC_BASE)
+#define RCC ((RCC *) RCC_BASE)
 #define TIM2 ((TIM *) TIM2_BASE)
 
 #endif

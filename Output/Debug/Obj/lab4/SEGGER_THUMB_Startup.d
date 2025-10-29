@@ -1,2 +1,2 @@
 Output/Debug/Obj/lab4/SEGGER_THUMB_Startup.o: \
- /Users/mynority/Documents/Github/MicroPs/lab4/SEGGER_THUMB_Startup.s
+ C:\Users\Mayno\Documents\SEGGER\ Embedded\ Studio\ Projects\Executable_1\lab4\SEGGER_THUMB_Startup.s
